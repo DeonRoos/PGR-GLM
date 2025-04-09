@@ -16,37 +16,48 @@ The live sessions will be held on Blackboard Collaborate at the time indicated i
 
 \  
 
-#### Monday 29^th^ April 2024
+#### Monday 14^th^ April 2025
 
 \  
 
 |09:30 - 10:00 | 10:00 - 12:30 | 12:30 - 13:30 |13:30 - 17:00 |
 |:-------------|:-------------|:------------|:-------------|
-| Course introduction (live - DR) | Introducing Generalized Linear Models. Poisson GLMs; theory lecture (recorded) | LUNCH | Poisson GLM - live practical (DR)|
+| Course introduction (live - DR) | Introducing Generalized Linear Models. Free | LUNCH | Free|
 
 \  
 
 \  
 
-#### Tuesday 30^th^ April 2024
+#### Tuesday 15^th^ April 2025
 
 \  
 
 |09:30 - 12:30     | 12:30 - 13:30 |13:30 - 17:00    | 
 |:-----------------|:-------------|:---------------|
+| Poisson GLMs; theory lecture (recorded) | LUNCH | Poisson GLM - live practical (DR)|
+
+\  
+
+\  
+
+#### Wednesday 16^th^ April 2025
+
+\  
+
+|09:30 - 12:30 | 12:30 - 13:30 |13:30 - 17:00 |
+|:---------------------------|:-------------|:---------------|:------------------|
 | Binomial GLMs; theory lecture (recorded) | LUNCH | Binomial GLM - live practical (DR)|
 
 \  
 
-\  
+\
 
-#### Friday 30^th^ April 2021
+#### Thursday 17^th^ April 2025
 
 \  
 
 |09:30 - 12:30               | 12:30 - 13:30 |13:30 - 16:30 | 16:30 - 17:00 |
-|:---------------------------|:-------------|:---------------|:------------------|
+|:-------------|:-------------|:------------|:-------------|
 |Bernoulli GLMs; theory lecture (recorded) | LUNCH | Bernoulli GLM for proportions - live practical (DR)| Question and answer session on LM and GLM (AD & DR)|
 
-\  
-
+\ 
